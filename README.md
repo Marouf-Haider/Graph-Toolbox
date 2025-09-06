@@ -17,13 +17,20 @@ A Python application for visualizing mathematical functions in 2D (with planned 
 ## Screenshots
 
 ### Main Window
-![Main Window](assets/screenshots/home.png)
+<p align = "center">
+<img src="assets/screenshots/home.png" alt="Main Window" width="60%"/>
+</p>
 
 ### 2D Grapher
-![2D Grapher](assets/screenshots/2d-grapher.png)
+<p align = "center">
+<img src="assets/screenshots/2d-grapher.png" alt="2D Grapher" width="60%"/>
+</p>
 
 ### Add function window
-![Add function window](assets/screenshots/add-function.png)
+<p align = "center">
+<img src="assets/screenshots/add-function.png" alt="Add function window" width="40%"/>
+</p>
+
 ---
 
 ## Getting Started
@@ -85,10 +92,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Author
 **Marouf Haider**  
-School email: marouf.haider@nhsm.edu.dz
-Personal email: ensmmarouf@gmail.com
+[School email](marouf.haider@nhsm.edu.dz)
 
-GitHub: [Marouf-Haider](https://github.com/Marouf-Haider)
+[Personal email](ensmmarouf@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/haider-marouf-1149b1316)
 
 ---
 
